@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The antiquity of reformation: or, An observation proving the Great Turke a triangle, and the rest of the world roundheads. Wherein is shewed, a difference between the government of the Word of God, and best reformed churches.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75480</idno>
+            <idno type="STC">Wing A3509</idno>
+            <idno type="STC">Thomason E400_13</idno>
+            <idno type="STC">ESTC R201747</idno>
+            <idno type="EEBO-CITATION">99862247</idno>
+            <idno type="PROQUEST">99862247</idno>
+            <idno type="VID">114398</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114398)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The antiquity of reformation: or, An observation proving the Great Turke a triangle, and the rest of the world roundheads. Wherein is shewed, a difference between the government of the Word of God, and best reformed churches.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop, and R. Harper, at the Bible and Harpe in Smithfield.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "July 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church renewal --  England --  Early works to 1800.</term>
+               <term>Reformed Church --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114398:1"/>
+            <pb facs="tcp:114398:1" rendition="simple:additions"/>
+            <p>THE ANTIQUITY OF REFORMATION: OR, AN OBSERVATION Proving the Great TURKE a Triangle, and the reſt of the world ROUNDHEADS.</p>
+            <p>Wherein is ſhewed, a difference between the Go<g ref="char:EOLhyphen"/>vernment of the WORD of GOD, and beſt Reformed CHURCHES.</p>
+            <figure>
+               <head>C R</head>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>London Printed by B. Alſop, and R. Harper, at the Bible and Harpe in Smithfield. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114398:2"/>
+            <pb facs="tcp:114398:2"/>
+            <head>THE ANTIQVITY Of Reformations: or, an obſervation, proving the <hi>Turke</hi> a Triangle, and the reſt of the world Round-Heads. &amp;c.</head>
+            <p>SOme Reformations have bin from Heaven, the firſt in Heaven it ſelfe, where according unto <hi>Dyoniſius</hi> the <hi>Areopagite,</hi> Diſciple of St. <hi>Paul,</hi> is an Hierarchy or order of Angels; ſome whereof un<g ref="char:EOLhyphen"/>contented with their ſtate, for ambition were caſt out. Secondly, becauſe <hi>Adam</hi> and <hi>Eve</hi> had eaten the forbiden friute, were extruded Paradice. Thirdly, for that all fleſh was growne corrupt, their thoughts e<g ref="char:EOLhyphen"/>vil continualy, did take by violence one from another, the world was drowned except righteous <hi>Noah,</hi> and
+<pb facs="tcp:114398:3"/>his family; who found favour of God. Fourthly at the Tower of Babell, where men did endeavour to rely on their owne wiſdomes, and ſo reſiſt God, who ſent a confuſion of language and opinions, one to pull down the pride of another, which continues to this day; for at Rome are 360. different opinions, a<g ref="char:EOLhyphen"/>mong Prieſts in Religion, where few know Religion but Prieſts, according to Cardinall <hi>Bellarmines</hi> diſ<g ref="char:EOLhyphen"/>covery; which is at large ſet forth by Biſhop <hi>Hall</hi> 1609, <hi>In England</hi> were about 15 different opinions in Religion, among Proteſtants, where Religion is in their owne language, but among Lawyers the more where few know the Law, but Lawyers, according to King <hi>Iames</hi> in a ſpeech to the Parliament 1609; publiſhed by authority.</p>
+            <p>The Turke he uncomplyeth with the laſt Reforma<g ref="char:EOLhyphen"/>tion from heaven, by the advice of the <hi>Iew Abdala</hi> &amp; the <hi>Monk Sergius</hi> a Chriſtian, (Authors both Engliſh and Scotch affirm) to obtaine the Majorality of all the world, which he hath attained unto, from being a Marchants man: for <hi>Maximus</hi> is God himſelfe, the <hi>Turke</hi> Major, having in poſſeſion in theſe daies, <hi>Ba<g ref="char:EOLhyphen"/>bilon</hi> in <hi>Aſtia,</hi> gran <hi>Cairo</hi> in <hi>Africa; Conſtantinople</hi> in <hi>Europe;</hi> and all the Land within that Triangle, by following the policy of the ſacred Trinity, the reſt of <hi>Aſia,</hi> the reſt of <hi>Africa,</hi> and the reſt of <hi>Europe</hi> are round about him, and therefore called Round-heads; becauſe they follow falſe Tradition of policy, from heathens which knew not God.</p>
+            <p>The policy which the Sacred Trinity teacheth, is
+<pb facs="tcp:114398:3"/>manifeſt in the ſacred Scripture; firſt, God the Father he adviſeth to encreaſe and multiply to fill up the earth, God ſaith ſave the men, and kill the vices, to fill up the manſions in heaven, which he would goe to prepare, God the Holy-Ghoſt writeth, keepe the unity of the Spirit in the bond of peace; that is ſuf<g ref="char:EOLhyphen"/>fer no controverſy of Law of Religion, but decide them in 3 daies, and he doth that who doth ſooneſt. The Marchant therefore of <hi>Arabia,</hi> which was Ma<g ref="char:EOLhyphen"/>homet the Turke, took from the whore of <hi>Babell</hi> di<g ref="char:EOLhyphen"/>verſity of wives and Concubines to encreaſe &amp; mul<g ref="char:EOLhyphen"/>tiply to fill up the earth rather then marre men, which diverſity of opinions cauſeth becauſe of two evils the leaſt is to be choſen; ſaves his men, and kils the vices, rather then let them kill one another, by aſ<g ref="char:EOLhyphen"/>ſociation, fortification, and garriſon and enlarged his confines with ſuperflurty of generation, ſuffereth no controverſue of Law or Religion, but decides them in 3 dayes, and ſo keeps the unity of the Spirit in the bond of peace, making it his mayne aime, to have a care of the maine, to be Lord Major of the world, as a Marchant of a City, is commonly ambitious, to be Lord Major of a City, <hi>Docter Sibbs</hi> in his Sermon called the ſpiritual mans aime, ſtirreth up al Chriſti<g ref="char:EOLhyphen"/>ans to make it their maine aime, to have a care of the maine, to raign with Chriſt in Heaven; as the Turke doth to raigne on earth: the way thereunto, is by a connexion of the tradition of policy from the Sacred Trinity, to the tradition of Divinity from the ſame; for the avoiding, plunder, and murder, for<g ref="char:EOLhyphen"/>biden
+<pb facs="tcp:114398:4"/>by the Law of Moſes, which is into der to preparation, for the fulfilling of the Prophet <hi>Dan<g ref="char:EOLhyphen"/>nells</hi> propheſie of latter times; (pointed at by the fingere of our Saviour) that they that turn many un<g ref="char:EOLhyphen"/>to righteouſneſſe, ſhall ſhine like ſtarrs in the firma<g ref="char:EOLhyphen"/>ment for ever and ever, and ſo become Children of light, and not of darkneſſe; as Bi. <hi>Andrewes,</hi> who beareth the name of the titular Angel of <hi>Scotland</hi> writeth, So perfect a thing is the light, as God him<g ref="char:EOLhyphen"/>ſelfe is ſaid to be ight; 1 <hi>Iohn,</hi> 1.5. his Son our Sa<g ref="char:EOLhyphen"/>viour to be the light of lights, His Spirit light, the light of his holy Spirit. The Angells that be good, be Angells of Light, yea whatſoever here on earth is perfect; the King is called the light of Iſrael, the A<g ref="char:EOLhyphen"/>poſtles called <hi>Lucis Mundi,</hi> and the Saints of God where ever they be in the world, ſhine as lights in it, heires to the Father of light, <hi>per modum naturae,</hi> as the children from the Father; <hi>per modum emanationis</hi> as beames from the Sun, god is light and in him is no darkneſſe at all, aſcribe it not to <hi>Pater luminum</hi> but to <hi>Princeps Tenebrarum;</hi> to the Prince of Dark<g ref="char:EOLhyphen"/>neſſe, not to the Father of light, but aſcribe all good from the ſmall left ſparke, to the greateſt beame, from the leaſt good giving to the beſt and moſt per<g ref="char:EOLhyphen"/>fect guift of all, to him, to the Father of lights.</p>
+            <q>
+               <l>Qu monet vt facias, quod cum facis, ille momendo</l>
+               <l>Laudat; &amp; hortatu comprobat acta ſuo.</l>
+            </q>
+            <p>Witneſſe the League and Covenant, which doth in<g ref="char:EOLhyphen"/>deavour a conformity unto the government of beſt reformed Churches, where the Law is as plain e as
+<pb facs="tcp:114398:4"/>the Goſpell an end of controverſie in all cauſes and courts, in three moneths by Sta<g ref="char:EOLhyphen"/>tute &amp; ſo the government in proviſion will agree, with the Monarchall, Cardinall, Epiſ<g ref="char:EOLhyphen"/>copall, and Mercantall; but the Marcantall is in the ſuperlative degree, becauſe in poſ<g ref="char:EOLhyphen"/>ſeſſion of more then the other three, by fol<g ref="char:EOLhyphen"/>lowing the policy of the ſacred Scripture, taught him by the Iew and Chriſtian aiming more at wiſedome then wit but in Chriſten<g ref="char:EOLhyphen"/>dome at more wit then wiſedome, by fol<g ref="char:EOLhyphen"/>lowing diverſity of opinions which is contrary to nature, <hi>Corruptionis incrementum, reformationis neceſſitatem facit, Ergo.</hi> our Savi<g ref="char:EOLhyphen"/>our promiſed to haſten his comming for the elects ſake, elſe no man would be ſved, becauſe the adverſary of mandkind, ſtriveth to make all men as bad as himſelfe. And as <hi>Britaine</hi> hath bin reformed 4 times, by Ro<g ref="char:EOLhyphen"/>mans, Saxons, Danes, and Normans; ſo now a dayes it happeneth by the good wil of God that the Scots do endeavour to pre<g ref="char:EOLhyphen"/>pare Engliſh-men, for the 5 reformation from heaven, foretold by SS to be according unto
+<pb facs="tcp:114398:5"/>righteouſneſſe &amp; true holyneſſe, that Chriſt may raigne in his Ordinances, the <hi>ſummum bonum</hi> of policy and eternall felicity, like <hi>Orpheus</hi> a primitive Poet, who did endea<g ref="char:EOLhyphen"/>vour to reduce men from barbariſme, to hu<g ref="char:EOLhyphen"/>manity and civillity; ſo they from heathen<g ref="char:EOLhyphen"/>iſme, to Chriſtianity in policy, to be Chriſ<g ref="char:EOLhyphen"/>tians by policy as well as Religion, to ſave the men and kill the vices rather then one another, and enlarge his confines with ſuper<g ref="char:EOLhyphen"/>fluity of generations. For to plunder men as faſt as rich, kill as faſt as populous, acording to the fourth Reformation by the <hi>Norman,</hi> is an abomination of deſolation ſpoken of by <hi>Daniell</hi> the Prophet whoſe derivation was from Rome, as the learned french hiſtorian <hi>Philip de Comines</hi> a Roman Catholick ob<g ref="char:EOLhyphen"/>ſerveth
+<q>By this fifth Reformation herewritten, many men think is meant, no deſtruction to any but to comply with Scots &amp; Par. becauſe they have the major voyce, and then no man can de<g ref="char:EOLhyphen"/>ny, but that to the Word of God men will their words and acts apply, and not be perjur'd But govern according to beſt refor<g ref="char:EOLhyphen"/>med Churches, and controverſie in <hi>3</hi> moneths, ſhun murder, fraud, plundering, and lurches.</q>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Iohn Downame.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114398:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
